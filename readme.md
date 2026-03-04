@@ -74,7 +74,7 @@ This project is released under the [MIT License](LICENSE).
 
 ## Contact
 
-**[avinashtare.work@gmail.com](mailto:avinashtare.work@gmail.com)**
+**[raiajit022@gmail.com@gmail.com](mailto: raiajit022@gmail.com)**
 
 ## Author
-**卐🕉 Avinash Tare 🕉 卐**
+** Ajit Rai**
